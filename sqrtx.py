@@ -14,3 +14,4 @@ class Solution(object):
         
         # Return the integer part of the guess as the sqrt approximation
         return int(guess)
+    
